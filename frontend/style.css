@@ -1,0 +1,28 @@
+header {
+  min-height: 70px;
+  min-width: 100%;
+  background-color: hsl(209deg 68% 7%);
+}
+
+header a {
+  display: flex;
+  align-items: center;
+}
+
+header .logo {
+  height: 30px;
+}
+main {
+  background-color: hsl(208deg 36% 17%);
+  color: hsl(50deg 60% 96%);
+  text-align: center;
+}
+
+main img {
+  border: 2px solid white;
+  width: 70%;
+}
+
+.img-bg {
+  background-color: hsl(210deg 50% 13%);
+}
